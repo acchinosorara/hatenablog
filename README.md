@@ -1,2 +1,1 @@
-# hatenablog
-はてなブログカスタマイズ用のJavaScript
+## はてなブログカスタマイズ用のJavaScript
